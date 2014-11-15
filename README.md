@@ -8,3 +8,6 @@ Python_statistics
 
 ###padjust.py
   returns p-values adjusted by one of several methods (bonferroni or BH-FDR).
+
+###metric.py
+  compute some distance metric (Jaccard, Bray-Curtis, or Jensen-Shannon divergence) from data matrix.
